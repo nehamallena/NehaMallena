@@ -1,4 +1,4 @@
-Neha Mallena
+# <div align="center">NEHA MALLENA</div>
 <div align="center">
 [![Email](https://img.shields.io/badge/Email-nehamallena.26@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nehamallena.26@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/neha-mallena-066775255/)
@@ -20,12 +20,13 @@ I am an enthusiastic learner, constantly engaging in virtual internships with in
 ⚡ Fun fact: I've completed multiple Google virtual internships in different domains
 
 🛠️ Tech Stack
-Programming Languages:
-https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-https://img.shields.io/badge/Java-%2523ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+*Programming Languages:*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 Technologies & Concepts:
 Data Structures & Algorithms Machine Learning Databases DBMS Cybersecurity
@@ -62,13 +63,28 @@ Engaged in developing and deploying applications for cloud-native environments
 Collaborated with teams to architect scalable solutions on cloud platforms
 
 📜 Certifications & Achievements
-Salesforce - AI Associate Certification
+*Salesforce* - AI Associate Certification
+*ServiceNow* - Certified System Administrator (CSA) | Certified Application Developer (CAD)
+*Accenture* - Data Analytics and Visualization Job Simulation
+*Google* - AI/ML Virtual Internship | Android Developer Virtual Internship
 
-ServiceNow - Certified System Administrator (CSA) | Certified Application Developer (CAD)
+## 📈 Coding Stats
 
-Accenture - Data Analytics and Visualization Job Simulation
+### 🏆 LeetCode Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/neha_mallena?theme=dark&font=ABeeZee&ext=contest)
 
-Google - AI/ML Virtual Internship | Android Developer Virtual Internship
+### ⚡ HackerRank Achievements
+[![HackerRank Python Basic](https://img.shields.io/badge/Python-Basic%20Certificate-00EA64?logo=hackerrank)](https://www.hackerrank.com/profile/22A31A4277)
+*HackerRank Profile:* [22A31A4277](https://www.hackerrank.com/profile/22A31A4277)
+
+### 📊 GitHub Activity
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehamallena&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="neha's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehamallenatheme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+</p>
+
+---
+
 
 📈 Education
 B.Tech in CSE (AI & ML) - Pragati Engineering College (2022-2026)
@@ -83,11 +99,8 @@ Percentage: 77.4%
 📫 Let's Connect!
 I am always open to discussing new opportunities, innovative ideas, or potential collaborations.
 
-Email: nehamallena.26@gmail.com
-
-Phone: +91-9030665138
-
-LinkedIn: Connect with me
+*Email:* [nehamallena.26@gmail.com](mailto:nehamallena.26@gmail.com)
+*LinkedIn:* [Connect with me](https://www.linkedin.com/in/neha-mallena-066775255/)
 
 LeetCode & GitHub: See my coding profiles above!
 
