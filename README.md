@@ -85,10 +85,14 @@ I am an enthusiastic learner, constantly engaging in virtual internships with in
 ### 🏆 LeetCode Progress
 ![LeetCode Stats](https://leetcard.jacoblin.cool/neha_mallena?theme=dark&font=ABeeZee&ext=contest)
 
+### 🏆HackerRank Progress
+[![HackerRank badges](https://hackerrank-badges.vercel.app/22A31A4277?theme=dark&fontColor=ffffff)](https://www.hackerrank.com/profile/22A31A4277)
+
+
 ### ⚡ HackerRank Achievements
-[![HackerRank Python Basic](https://img.shields.io/badge/Python-Basic%20Certificate-00EA64?logo=hackerrank)](https://www.hackerrank.com/profile/22A31A4277)
+[![HackerRank Python Basic](https://img.shields.io/badge/Python-Basic%20Certificate-00EA64?logo=hackerrank)](https://www.hackerrank.com/certificates/eaac61ee78a4)
 [![HackerRank SQL Basic](https://img.shields.io/badge/SQL-Basic%20Certificate-00EA64?logo=hackerrank)](https://www.hackerrank.com/certificates/c82adb3ce9df)
-[![HackerRank SQL Intermediate](https://img.shields.io/badge/SQL-Intermediate%20Certificate-00EA64?logo=hackerrank)](https://www.hackerrank.com/profile/22A31A4277)
+[![HackerRank SQL Intermediate](https://img.shields.io/badge/SQL-Intermediate%20Certificate-00EA64?logo=hackerrank)](https://www.hackerrank.com/certificates/b21ade21beed)
 
 *HackerRank Profile:* [22A31A4277](https://www.hackerrank.com/profile/22A31A4277)
 
