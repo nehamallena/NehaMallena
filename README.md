@@ -1,9 +1,9 @@
 # <div align="center">NEHA MALLENA</div>
 <div align="center">
 [![Email](https://img.shields.io/badge/Email-nehamallena.26@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nehamallena.26@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/neha-mallena-066775255/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/neha-mallena-066775255/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/neha_mallena/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/nehamallena)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/22A31A4277)
 
 </div>
 👋 About Me
@@ -78,11 +78,7 @@ Collaborated with teams to architect scalable solutions on cloud platforms
 *HackerRank Profile:* [22A31A4277](https://www.hackerrank.com/profile/22A31A4277)
 
 ### 📊 GitHub Activity
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehamallena&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="neha's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehamallenatheme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
-</p>
-
+<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehamallena&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Neha's GitHub Stats" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehamallena&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/> </p>
 ---
 
 
