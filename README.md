@@ -87,7 +87,7 @@ I am an enthusiastic learner, constantly engaging in virtual internships with in
 
 ### ⚡ HackerRank Achievements
 [![HackerRank Python Basic](https://img.shields.io/badge/Python-Basic%20Certificate-00EA64?logo=hackerrank)](https://www.hackerrank.com/profile/22A31A4277)
-[![HackerRank SQL Basic](https://img.shields.io/badge/SQL-Basic%20Certificate-00EA64?logo=hackerrank)](https://www.hackerrank.com/profile/22A31A4277)
+[![HackerRank SQL Basic](https://img.shields.io/badge/SQL-Basic%20Certificate-00EA64?logo=hackerrank)](https://www.hackerrank.com/certificates/c82adb3ce9df)
 [![HackerRank SQL Intermediate](https://img.shields.io/badge/SQL-Intermediate%20Certificate-00EA64?logo=hackerrank)](https://www.hackerrank.com/profile/22A31A4277)
 
 *HackerRank Profile:* [22A31A4277](https://www.hackerrank.com/profile/22A31A4277)
