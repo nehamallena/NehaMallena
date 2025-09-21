@@ -45,8 +45,8 @@ I am an enthusiastic learner, constantly engaging in virtual internships with in
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[📧 Email Spam Detector](https://github.com/)** | Built a machine learning model to classify emails as spam and deployed it as a Flask web app with HTML interface | `Python` `Flask` `Scikit-learn` `HTML` `CSV` |
-| **[⚽ Sports Team Manager](https://github.com/)** | A Python-based sports team management system designed to manage team operations efficiently | `Python` `OOP` |
+| **[📧 Email Spam Detector](https://github.com/nehamallena/Email-spam-detector)** | Built a machine learning model to classify emails as spam and deployed it as a Flask web app with HTML interface | `Python` `Flask` `Scikit-learn` `HTML` `CSV` |
+| **[⚽ Sports Team Manager](https://github.com/nehamallena/SportsTeamManager)** | A Python-based sports team management system designed to manage team operations efficiently | `Python` `OOP` |
 
 *For more projects, please check my [GitHub Repositories]()*
 
@@ -80,18 +80,23 @@ I am an enthusiastic learner, constantly engaging in virtual internships with in
 
 ---
 
-## 📈 Education
+## 📈 Coding Stats
 
-- **B.Tech in CSE (AI & ML)** - Pragati Engineering College (2022-2026)  
-  CGPA: 8.19/10
+### 🏆 LeetCode Progress
+![LeetCode Stats](https://leetcard.jacoblin.cool/neha_mallena?theme=dark&font=ABeeZee&ext=contest)
 
-- **Intermediate (MPC)** - Narayana Junior College (2020-2022)  
-  Percentage: 86%
+### ⚡ HackerRank Achievements
+[![HackerRank Python Basic](https://img.shields.io/badge/Python-Basic%20Certificate-00EA64?logo=hackerrank)](https://www.hackerrank.com/profile/22A31A4277)
+[![HackerRank SQL Basic](https://img.shields.io/badge/SQL-Basic%20Certificate-00EA64?logo=hackerrank)](https://www.hackerrank.com/profile/22A31A4277)
+[![HackerRank SQL Intermediate](https://img.shields.io/badge/SQL-Intermediate%20Certificate-00EA64?logo=hackerrank)](https://www.hackerrank.com/profile/22A31A4277)
 
-- **CBSE** - Ashram Public School (2020)  
-  Percentage: 77.4%
+*HackerRank Profile:* [22A31A4277](https://www.hackerrank.com/profile/22A31A4277)
 
----
+### 📊 GitHub Activity
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nehamallena&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Neha's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehamallena&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+</p>
 
 ## 📫 Let's Connect!
 
